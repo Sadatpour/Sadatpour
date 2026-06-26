@@ -1,100 +1,84 @@
-```md
+<div align="center">
+
+<img width="1536" height="300" alt="Git Hub Pic" src="https://github.com/user-attachments/assets/f061dc7f-2b3a-4932-ad35-188b8b2f5dc6" />
 
 
-<p align="center">
-  <img src="./assets/banner-yellow.png" alt="Moji Banner" width="100%">
-</p>
+# 👋 Hi, I'm Moji
 
-<h1 align="center">Hi 👋 I'm Moji</h1>
+### **Technical Consultant • Web Solutions Architect • AI-Augmented Developer**
 
-<h3 align="center">
-Technical Consultant • Web Solutions Architect • AI-Augmented Developer
-</h3>
+Building scalable web applications, AI-powered workflows, and high-performance digital solutions.
 
-<p align="center">
-Building scalable web platforms, AI-powered workflows and modern digital products.
-</p>
+<br>
 
-<p align="center">
+🌍 **Available for Remote Opportunities**
 
-<a href="https://linkedin.com/in/sadatpour">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://medium.com/@sadatpour">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sadatpour)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@sadatpour)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/sadatpour)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/smsadatpour)
 
-<a href="https://instagram.com/sadatpour">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+---
 
-<a href="https://x.com/smsadatpour">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+> **"Turning ideas into scalable digital products with clean architecture and modern technologies."**
 
-</p>
-
-<p align="center">
-
-🟡 Available for Remote Opportunities
-
-</p>
+</div>
 
 ---
 
 # 🇬🇧 About Me
 
-I'm a **Technical Consultant** specializing in modern web technologies, software architecture, and AI-augmented development.
+I'm a **Technical Consultant** and **Web Solutions Architect** passionate about building scalable digital products that combine modern web technologies with artificial intelligence.
 
-Over the years, I've designed and developed enterprise WordPress solutions, custom web applications, automation systems, API integrations, and performance-focused digital platforms.
+I specialize in designing and developing enterprise-grade WordPress solutions, custom web applications, automation systems, API integrations, performance optimization, and AI-assisted development workflows.
 
-My goal is not simply to build software—but to solve business problems through clean architecture, scalable systems, and practical engineering.
+Rather than simply writing code, I focus on understanding business requirements, designing maintainable software architectures, and delivering solutions that create measurable value.
 
-I enjoy combining software engineering with AI to improve productivity, optimize workflows, and deliver maintainable solutions.
+I'm passionate about solving complex technical challenges, improving developer experience, and continuously exploring emerging technologies.
 
-Outside of development you'll usually find me following Formula 1, exploring emerging AI technologies, contributing to side projects, and continuously learning.
+Outside of software development, you'll usually find me following Formula 1, experimenting with AI, contributing to side projects, or learning something new.
 
 ---
 
 # 🇩🇪 Über mich
 
-Ich bin **Technical Consultant** mit Schwerpunkt auf Webarchitektur, modernen Webtechnologien und KI-gestützter Softwareentwicklung.
+Ich bin **Technical Consultant**, **Web Solutions Architect** und beschäftige mich mit der Entwicklung moderner Webplattformen sowie KI-gestützter Softwarelösungen.
 
-Ich entwickle skalierbare Webplattformen, Enterprise-WordPress-Lösungen, individuelle Webanwendungen sowie Automatisierungs- und Integrationslösungen.
+Meine Erfahrung umfasst Enterprise-WordPress-Projekte, individuelle Webanwendungen, Automatisierung, API-Integrationen, Performance-Optimierung, Technical SEO und den Einsatz moderner KI-Technologien in Entwicklungsprozessen.
 
-Mein Fokus liegt darauf, Geschäftsanforderungen zu verstehen, nachhaltige Softwarearchitekturen zu entwickeln und technische Lösungen mit echtem Mehrwert umzusetzen.
+Für mich bedeutet Softwareentwicklung mehr als nur Programmieren. Ich analysiere Anforderungen, entwickle nachhaltige Softwarearchitekturen und setze Lösungen um, die langfristigen geschäftlichen Mehrwert schaffen.
 
-Besonders interessieren mich Künstliche Intelligenz, Softwarearchitektur, Performance-Optimierung, moderne Entwicklungsprozesse und Open-Source-Technologien.
+Ich interessiere mich besonders für Webtechnologien, Softwarearchitektur, Künstliche Intelligenz, Open-Source-Projekte und moderne Entwicklungsprozesse.
 
-In meiner Freizeit beschäftige ich mich mit Formel 1, neuen Technologien und kontinuierlicher Weiterbildung.
+Privat begeistere ich mich für die Formel 1, neue Technologien und den kontinuierlichen Ausbau meiner technischen Kenntnisse.
 
 ---
 
 # 🚀 Core Expertise
 
-- Technical Consulting
-- Web Solutions Architecture
-- AI-Augmented Development
-- Enterprise WordPress Development
-- JavaScript Engineering
-- PHP Development
-- REST APIs
-- Automation & AI Workflows
-- Performance Optimization
-- Technical SEO
-- Cloud Deployment
+* 🟡 Technical Consulting
+* 🟡 Web Solutions Architecture
+* 🟡 AI-Augmented Development
+* 🟡 Enterprise WordPress Development
+* 🟡 JavaScript & PHP Engineering
+* 🟡 REST API Development & Integration
+* 🟡 Automation & AI Workflows
+* 🟡 Performance Optimization
+* 🟡 Technical SEO
+* 🟡 Cloud Deployment
 
 ---
 
 # 🌍 Languages
 
-| Language | Level |
-|-----------|-------|
-| 🇮🇷 Persian (Farsi) | Native |
-| 🇮🇷 Mazandarani | Native |
-| 🇬🇧 English | B1 |
-| 🇩🇪 German | B1 |
+| Language             | Level             |
+| -------------------- | ----------------- |
+| 🇮🇷 Persian (Farsi) | Native            |
+| 🇮🇷 Mazandarani     | Native            |
+| 🇬🇧 English         | B1 – Intermediate |
+| 🇩🇪 German          | B1 – Intermediate |
 
 ---
 
@@ -102,11 +86,11 @@ In meiner Freizeit beschäftige ich mich mit Formel 1, neuen Technologien und ko
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-FFD43B?style=for-the-badge&logo=php&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FFD43B?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-FFD43B?style=for-the-badge&logo=css3&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-FFD43B?style=for-the-badge&logo=mysql&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-FFD43B?style=for-the-badge\&logo=php\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FFD43B?style=for-the-badge\&logo=html5\&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FFD43B?style=for-the-badge\&logo=css3\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FFD43B?style=for-the-badge\&logo=mysql\&logoColor=black)
 
 ### Frontend
 
@@ -114,7 +98,7 @@ React • Next.js • Tailwind CSS • Vite • Bootstrap • Three.js
 
 ### Backend
 
-WordPress • Node.js • REST APIs • MySQL
+WordPress • Node.js • REST API • MySQL
 
 ### Cloud
 
@@ -126,53 +110,53 @@ Git • GitHub • Figma • Photoshop • Jira • Notion
 
 ---
 
-# 🚀 Currently Exploring
+# 🚀 Current Focus
 
-- AI Agents
-- MCP Ecosystem
-- AI-Augmented Development
-- Developer Automation
-- Modern Web Architecture
-- High Performance Web Applications
+* AI-Augmented Development
+* AI Agents & MCP
+* Modern WordPress Architecture
+* Developer Automation
+* High Performance Web Applications
+* Technical Consulting
 
 ---
 
 # ⭐ Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🚀 Nerkhito | Financial Data Platform |
-| ⚙️ Dalili Core | Enterprise WordPress Framework |
-| 🤖 QotbNama | AI-powered Static Web Application |
-| 💡 MojiX Universe | AI & Technology Education |
+🚧 Coming Soon
+
+* Financial Platforms
+* Enterprise WordPress Solutions
+* AI-Powered Web Applications
+* Automation Systems
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sadatpour&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD43B&icon_color=FFD43B)
+![](https://github-readme-stats.vercel.app/api?username=sadatpour\&show_icons=true\&theme=tokyonight\&hide_border=true\&icon_color=FFD43B\&title_color=FFD43B\&text_color=ffffff)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadatpour&theme=dark&hide_border=true&ring=FFD43B&fire=FFD43B)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadatpour\&theme=dark\&hide_border=true\&ring=FFD43B\&fire=FFD43B\&currStreakLabel=FFD43B)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatpour&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD43B)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatpour\&layout=compact\&theme=tokyonight\&hide_border=true\&title_color=FFD43B)
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in discussing:
+I'm always interested in collaborating on:
 
-- Technical Consulting
-- AI Projects
-- Enterprise Web Development
-- Automation
-- Remote Opportunities
+* AI Projects
+* Technical Consulting
+* Enterprise Web Development
+* WordPress Engineering
+* Automation Systems
+* Remote Opportunities
 
 ---
 
 <div align="center">
 
-### ⭐ Building software that is scalable, maintainable and delivers measurable business value.
+### ⭐ Building software that is scalable, maintainable, and delivers measurable business value.
 
 </div>
-```
