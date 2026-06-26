@@ -2,55 +2,74 @@
 
 # 👋 Hi, I'm Moji
 
-### Web & AI Solutions Architect • Technical Consultant
+### Web & AI Solutions Architect
 
-Building scalable web platforms, AI-powered workflows, and high-performance digital products.
+Building scalable web platforms, AI-powered solutions, and high-performance digital experiences.
 
-[![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-domain.com)
+🌍 Available for Remote Opportunities
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadatpour)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/smsadatpour)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sadatpour)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/smsadatpour)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sadatpour)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🇬🇧 About Me
 
-I design and build scalable digital solutions with a strong focus on performance, maintainability, and business value.
+I'm a **Technical Consultant** and **Web & AI Solutions Architect** with experience designing and delivering scalable web platforms, enterprise WordPress solutions, AI-powered workflows, and modern digital products.
 
-My work combines modern web technologies, AI-assisted development, automation, and software architecture to transform ideas into production-ready products.
+My work focuses on software architecture, performance optimization, automation, technical SEO, API integrations, and creating maintainable systems that solve real business problems.
 
-I enjoy solving complex engineering challenges, optimizing systems, improving developer experience, and building tools that make people more productive.
+I enjoy working where technology, business strategy, and user experience intersect.
 
-Outside of development you'll usually find me following Formula 1, exploring emerging AI technologies, or working on side projects.
+Outside of development, I'm passionate about Formula 1, emerging AI technologies, and open-source software.
 
 ---
 
-## ⚡ Core Expertise
+# 🇩🇪 Über mich
 
-- Web Architecture
+Ich bin **Technical Consultant** und **Web & AI Solutions Architect** mit Schwerpunkt auf skalierbaren Webplattformen, Enterprise-WordPress-Lösungen, KI-gestützten Workflows und modernen digitalen Produkten.
+
+Meine Schwerpunkte liegen in Softwarearchitektur, Performance-Optimierung, Automatisierung, Technical SEO, API-Integrationen und der Entwicklung nachhaltiger technischer Lösungen für Unternehmen.
+
+Ich arbeite besonders gerne an Projekten, bei denen Technologie, Geschäftsanforderungen und Benutzererfahrung zusammenkommen.
+
+---
+
+# 🚀 Core Expertise
+
+- Web Solutions Architecture
 - AI-Augmented Development
-- WordPress Engineering
-- JavaScript & PHP
+- Enterprise WordPress Development
+- JavaScript & PHP Engineering
 - Performance Optimization
 - Technical SEO
-- API Integration
-- Automation
+- API Design & Integration
+- Automation & AI Workflows
 - Cloud Deployment
-- UI / UX Engineering
+- System Integration
 
 ---
 
-## 🛠 Tech Stack
+# 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇮🇷 Persian (Native) | ★★★★★ |
+| 🇬🇧 English | Professional Working Proficiency |
+| 🇩🇪 German | Intermediate |
+| 🇹🇷 Turkish | Conversational |
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+JavaScript • PHP • SQL • HTML5 • CSS3
 
 ### Frontend
 
@@ -58,9 +77,9 @@ React • Next.js • Tailwind CSS • Bootstrap • Vite • Three.js
 
 ### Backend
 
-Node.js • WordPress • REST API • MySQL
+WordPress • Node.js • REST API • MySQL
 
-### Cloud
+### Cloud & DevOps
 
 Cloudflare • AWS • Azure • Vercel • Netlify
 
@@ -70,18 +89,28 @@ Git • GitHub • Figma • Photoshop • Jira • Notion
 
 ---
 
-## 🌱 Currently Exploring
+# 🚀 Currently Working On
 
-- AI Agents
-- MCP Ecosystem
-- LLM Workflows
-- Agentic Coding
-- Developer Automation
-- Web Performance Engineering
+- AI-Augmented Development
+- AI Agents & MCP
+- Modern WordPress Architecture
+- Automation & Productivity Systems
+- High Performance Web Applications
 
 ---
 
-## 📊 GitHub
+# ⭐ Featured Projects
+
+> *(Coming Soon — Selected production projects will be showcased here.)*
+
+- Financial Platforms
+- Enterprise WordPress Solutions
+- AI-Powered Web Applications
+- Custom Automation Systems
+
+---
+
+# 📈 GitHub Statistics
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadatpour&theme=transparent&hide_border=true)
 
@@ -91,14 +120,20 @@ Git • GitHub • Figma • Photoshop • Jira • Notion
 
 ---
 
-## 🌍 Connect
+# 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadatpour)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/sadatpour)
-[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white)](https://x.com/smsadatpour)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sadatpour)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/sadatpour)
+I'm always interested in discussing:
+
+- Technical Consulting
+- Web Architecture
+- AI-Powered Products
+- Open Source
+- Freelance & Remote Opportunities
 
 ---
 
-> **Building products that are fast, scalable, and solve real-world problems.**
+<div align="center">
+
+### 💬 *"Building software that is scalable, maintainable, and delivers measurable business value."*
+
+</div>
