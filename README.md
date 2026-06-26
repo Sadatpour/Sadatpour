@@ -1,5 +1,4 @@
 ```md
-![Uploading Git Hub Pic.png…]()
 
 
 <p align="center">
