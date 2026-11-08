@@ -14,7 +14,7 @@ Building scalable web applications, AI-powered workflows, and high-performance d
 🌍 **Available for Remote Opportunities**
 
 <br>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatpour\&layout=compact\&theme=tokyonight\&hide_border=true\&title_color=FFD43B)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sadatpour)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@sadatpour)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/sadatpour)
@@ -138,7 +138,7 @@ Git • GitHub • Figma • Photoshop • Jira • Notion
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadatpour\&theme=dark\&hide_border=true\&ring=FFD43B\&fire=FFD43B\&currStreakLabel=FFD43B)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatpour\&layout=compact\&theme=tokyonight\&hide_border=true\&title_color=FFD43B)
+
 
 ---
 
